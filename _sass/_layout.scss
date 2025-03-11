@@ -8,8 +8,9 @@ main {
     flex-direction: column;
     align-items: center;
     background-image: 
+        linear-gradient(to top, rgba(255,255,255,0) 40%, var(--amber-500) 100%),
         url('#{$baseurl}/assets/images/background.png'),
-        linear-gradient(to top, var(--sky-50), var(--sky-300));
+        linear-gradient(to top, var(--amber-100), var(--amber-500));
     background-position: center, center;
     background-repeat: no-repeat, no-repeat;
     background-size: cover, cover;
