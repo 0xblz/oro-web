@@ -1,8 +1,8 @@
 # Site settings
 title: test title
 description: test description
-url: "https://test.com"
-baseurl: "/uno-web"
+url: "https://0xblz.github.io/oro-web/"
+baseurl: "/oro-web"
 
 # Build settings
 markdown: kramdown
